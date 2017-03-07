@@ -1,0 +1,9 @@
+c:\Users\rchamy.rchamy\documents\visual studio 2012\Projects\Business\BusinessTests\bin\Debug\BusinessTests.dll
+c:\Users\rchamy.rchamy\documents\visual studio 2012\Projects\Business\BusinessTests\bin\Debug\BusinessTests.pdb
+c:\Users\rchamy.rchamy\documents\visual studio 2012\Projects\Business\BusinessTests\bin\Debug\Business.dll
+c:\Users\rchamy.rchamy\documents\visual studio 2012\Projects\Business\BusinessTests\bin\Debug\Business.pdb
+c:\Users\rchamy.rchamy\documents\visual studio 2012\Projects\Business\BusinessTests\obj\Debug\BusinessTests.csprojResolveAssemblyReference.cache
+c:\Users\rchamy.rchamy\documents\visual studio 2012\Projects\Business\BusinessTests\obj\Debug\BusinessTests.dll
+c:\Users\rchamy.rchamy\documents\visual studio 2012\Projects\Business\BusinessTests\obj\Debug\BusinessTests.pdb
+c:\Users\rchamy.rchamy\documents\visual studio 2012\Projects\Business\BusinessTests\bin\Debug\Strategy.dll
+c:\Users\rchamy.rchamy\documents\visual studio 2012\Projects\Business\BusinessTests\bin\Debug\Strategy.pdb

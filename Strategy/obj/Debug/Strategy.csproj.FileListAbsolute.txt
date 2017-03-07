@@ -1,0 +1,5 @@
+c:\Users\rchamy.rchamy\documents\visual studio 2012\Projects\Business\Strategy\bin\Debug\Strategy.dll
+c:\Users\rchamy.rchamy\documents\visual studio 2012\Projects\Business\Strategy\bin\Debug\Strategy.pdb
+c:\Users\rchamy.rchamy\documents\visual studio 2012\Projects\Business\Strategy\obj\Debug\Strategy.csprojResolveAssemblyReference.cache
+c:\Users\rchamy.rchamy\documents\visual studio 2012\Projects\Business\Strategy\obj\Debug\Strategy.dll
+c:\Users\rchamy.rchamy\documents\visual studio 2012\Projects\Business\Strategy\obj\Debug\Strategy.pdb

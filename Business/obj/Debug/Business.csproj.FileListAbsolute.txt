@@ -1,0 +1,5 @@
+c:\users\rchamy.rchamy\documents\visual studio 2012\Projects\Business\Business\bin\Debug\Business.dll
+c:\users\rchamy.rchamy\documents\visual studio 2012\Projects\Business\Business\bin\Debug\Business.pdb
+c:\users\rchamy.rchamy\documents\visual studio 2012\Projects\Business\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+c:\users\rchamy.rchamy\documents\visual studio 2012\Projects\Business\Business\obj\Debug\Business.dll
+c:\users\rchamy.rchamy\documents\visual studio 2012\Projects\Business\Business\obj\Debug\Business.pdb
